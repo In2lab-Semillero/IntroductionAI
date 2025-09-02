@@ -75,6 +75,3 @@ El propósito de este proyecto es **analizar patrones de hospitalización, diagn
 - Scikit-learn (modelado predictivo)  
 
 ---
-
-✍️ Autor: *[Tu Nombre]*  
-📌 Proyecto académico / de análisis de datos en salud
